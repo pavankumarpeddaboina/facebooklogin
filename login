@@ -30,7 +30,7 @@ public class Facebook {
 }
 
 
-
+// By using Java ScriptExecutor(To highlight the element) 
 package selenium;
 
 import org.openqa.selenium.By;
